@@ -44,4 +44,5 @@ Conclusion: This project demonstrates how to combine data engineering and visual
 
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/c4722076-7b16-44df-b7b0-c90c40bbfe6c" />
 
-
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/6e02d960-7211-44ee-a65d-70bed540ee19" />
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/06075823-ecdf-4d64-87dc-1d53e49e4a21" />
